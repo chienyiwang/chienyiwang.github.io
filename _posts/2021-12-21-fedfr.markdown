@@ -8,7 +8,6 @@ author: "Chien-Yi Wang"
 authors: "Chih-Ting Liu*, <strong>Chien-Yi Wang*</strong>, Shao-Yi Chien, Shang-Hong Lai"
 venue: "AAAI 2022"
 arxiv: https://github.com/chienyiwang
-slides: https://github.com/chienyiwang
 code: https://github.com/jackie840129/FedFR
 ---
 
