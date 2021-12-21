@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "FedFR \&#58; Joint Optimization Federated Framework for Generic and Personalized Face Recognition"
+title:  "FedFR: Joint Optimization Federated Framework for Generic and Personalized Face Recognition"
 date:   2021-05-29 22:21:59 +00:00
 image: /images/fedfr.png
 categories: research
 author: "Chien-Yi"
 authors: "Chih-Ting Liu*, <strong>Chien-Yi Wang*</strong>, Shao-Yi Chien, Shang-Hong Lai"
-venue: "AAAI 2022"
+venue: "36th AAAI Conference on Artificial Intelligence, 2022"
 arxiv: https://github.com/chienyiwang
 code: https://github.com/jackie840129/FedFR
 ---
-In this work, we propose a FL based framework called FedFR to improve the generic face representation in a privacy-aware manner. Besides, the framework jointly optimizes personalized models for the corresponding clients via the proposed Decoupled Feature Customization module.
+In this work, we propose a Federated Learning based framework called FedFR to improve the generic face representation in a privacy-aware manner. Besides, the framework jointly optimizes personalized models for the corresponding clients via the proposed Decoupled Feature Customization module.
