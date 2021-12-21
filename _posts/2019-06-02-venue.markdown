@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "FedFR: Joint Optimization Federated Framework for Generic and Personalized Face Recognition"
-date:   2022-06-04 22:21:59 +00:00
+title:  "Direct Fitting of Gaussian Mixture Models"
+date:   2019-05-29 22:21:59 +00:00
 image: /images/fedfr.png
 categories: research
 author: "Leo Keselman"
