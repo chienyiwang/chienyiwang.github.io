@@ -10,5 +10,4 @@ venue: "AAAI 2022"
 arxiv: https://github.com/chienyiwang
 code: https://github.com/jackie840129/FedFR
 ---
-
 In this work, we propose a FL based framework called FedFR to improve the generic face representation in a privacy-aware manner. Besides, the framework jointly optimizes personalized models for the corresponding clients via the proposed Decoupled Feature Customization module.
