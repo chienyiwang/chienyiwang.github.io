@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "Venue Analytics: A Simple Alternative to Citation-Based Metrics"
-date:   2019-06-04 22:21:59 +00:00
+title:  "FedFR: Joint Optimization Federated Framework for Generic and Personalized Face Recognition"
+date:   2022-06-04 22:21:59 +00:00
 image: /images/fedfr.png
 categories: research
 author: "Leo Keselman"
-authors: "<strong>Leonid Keselman</strong>"
-venue: "ACM/IEEE Joint Conference on Digital Libraries"
-arxiv: https://arxiv.org/abs/1904.12573
-slides: /pdfs/jcdl2019.pdf
-code: https://github.com/leonidk/venue_scores
+authors: "Chih-Ting Liu, <strong>Chien-Yi Wang</strong>, Shao-Yi Chien, Shang-Hong Lai"
+venue: "AAAI"
+arxiv: https://github.com/chienyiwang
+code: https://github.com/jackie840129/FedFR
 ---
-A bibliometric/scientometric project. Our main two results are a method of assigning value to all venues in computer science and a method to organize them into distinct subfields, all without using citation data. The resulting venue scores can be used to rank universities' by scholarly output, and produce a responsive author-level metric.
+In this work, we propose a FL based framework called FedFR to improve the generic face representation in a privacy-aware manner. Besides, the framework jointly optimizes personalized models for the corresponding clients via the proposed Decoupled Feature Customization module.
