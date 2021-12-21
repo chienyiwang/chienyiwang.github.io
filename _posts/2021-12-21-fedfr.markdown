@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Intel RealSense Stereoscopic Depth Cameras"
-date:   2021-12-21 11:24:00 +00:00
+title:  "FedFR &#58; Joint Optimization Federated Framework for Generic and Personalized Face Recognition"
+date:   2022-05-29 22:21:59 +00:00
 image: /images/fedfr.png
 categories: research
-author: "Chien-Yi Wang"
-authors: "Chih-Ting Liu*, <strong>Chien-Yi Wang*</strong>, Shao-Yi Chien, Shang-Hong Lai"
-venue: "AAAI 2022"
+author: "Chien-Yi"
+authors: "Chih-Ting Liu*, <strong>Chien-Yi Wang*</strong>, Shao-Yi Chien, Shang-Hong Lai (*=equal contribution)"
+venue: "AAAI"
 arxiv: https://github.com/chienyiwang
 code: https://github.com/jackie840129/FedFR
 ---
